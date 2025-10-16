@@ -1,4 +1,4 @@
-# Modeling and Mitigating Social Engineering Malware: Integrating Malware–Opinion Dynamics with Optimal Impulse Control Approaches
+<!-- # Modeling and Mitigating Social Engineering Malware: Integrating Malware–Opinion Dynamics with Optimal Impulse Control Approaches -->
 
 The code for the paper  
 **"Modeling and Mitigating Social Engineering Malware: Integrating Malware–Opinion Dynamics with Optimal Impulse Control Approaches"**  
@@ -16,7 +16,7 @@ This study introduces a **mathematical framework** that integrates:
 Theoretical analysis derives conditions for optimal impulse timing and intensity, and an iterative algorithm is developed to compute these strategies efficiently.  
 Experiments conducted on **three real-world social networks** and **synthetic scale-free networks** demonstrate that our approach achieves an optimal balance between control cost and malware losses, emphasizing the value of **routine patching and awareness training** in cybersecurity resilience. -->
 
-<!-- ---
+
 ## Datasets
 
 This repository includes or references four representative social network datasets used in the experiments:
@@ -31,7 +31,7 @@ This repository includes or references four representative social network datase
 These networks are used to evaluate the scalability and robustness of the proposed model across **different topological structures**.  
 You may replace them with your own `.edges` files located in the `data/` directory.
 
---- -->
+
 ## Set Up
 
 contourpy==1.3.0
